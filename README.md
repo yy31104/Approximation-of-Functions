@@ -1,1 +1,1 @@
-# Approximation-of-Functions
+This project explores the approximation of a piecewise-defined periodic signal using truncated Fourier–Walsh series. Series coefficients are computed by two methods—a numerical rectangle rule with varied step size and MATLAB’s built-in quadrature—and then used to reconstruct the signal at different truncation orders. By comparing each reconstruction against the true waveform via mean-square error, the study quantifies how integration accuracy and term count affect approximation quality.&#x20;
